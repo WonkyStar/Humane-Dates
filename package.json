@@ -1,0 +1,11 @@
+{
+  "name": "humane-dates",
+  "version": "1.0.0",
+  "main": "humane.js",
+  "repository": {
+    "url": "https://github.com/WonkyStar/Humane-Dates.git",
+    "type": "git"
+  },
+  "author": "Zach Leatherman",
+  "license": "MIT"
+}
